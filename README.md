@@ -4,17 +4,17 @@
 
 # 👋 Hi there, I'm Aditya Singh!
 
-I'm a passionate **developer**, **tech enthusiast**, and a **CS undergrad** diving deep into code and creativity. I love building things that are both fun and functional.
+I'm a passionate **developer**, **tech enthusiast**, and a **CS undergrad** diving deep into code and creativity. I love building things that are both fun and functional, and I love exploring new technologies.
+
 
 ---
 
 ## 💻 What I Do
 
-- 🔧 **Backend Developer** | Building scalable apps using Node.js & Express
+- 🔧 **Full-Stack Developer (MERN)** | Building scalable web apps using MongoDB, Express, React, and Node.js
 - 🎮 **Game Developer** | Created a retro-style Space Invaders clone with Pygame
 - 🧠 **DSA Lover** | Solving problems on LeetCode (450+ and counting)
 - 🔍 Exploring **AI**, **GenAI tools**  
-- 🧰 Languages: `Java`, `C++`, `Python`, `JavaScript`, `HTML/CSS`
 
 ---
 
