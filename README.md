@@ -6,14 +6,13 @@
 
 I'm a passionate **developer**, **tech enthusiast**, and a **CS undergrad** diving deep into code and creativity. I love building things that are both fun and functional, and I love exploring new technologies.
 
-
 ---
 
 ## 💻 What I Do
 
-- 🔧 **Full-Stack Developer (MERN)** | Building scalable web apps using MongoDB, Express, React, and Node.js
-- 🎮 **Game Developer** | Created a retro-style Space Invaders clone with Pygame
-- 🧠 **DSA Lover** | Solving problems on LeetCode (450+ and counting)
+- 🔧 **Full-Stack Developer (MERN)** | Building scalable web apps using MongoDB, Express, React, and Node.js  
+- 🎮 **Game Developer** | Created a retro-style Space Invaders clone with Pygame  
+- 🧠 **DSA Lover** | Solving problems on LeetCode (450+ and counting)  
 - 🔍 Exploring **AI**, **GenAI tools**  
 
 ---
@@ -28,7 +27,6 @@ I'm a passionate **developer**, **tech enthusiast**, and a **CS undergrad** divi
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
 ### 🧰 Tools & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -38,7 +36,6 @@ I'm a passionate **developer**, **tech enthusiast**, and a **CS undergrad** divi
 ![Pygame](https://img.shields.io/badge/Pygame-366A96?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
 
 ### ☁️ Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -53,12 +50,17 @@ I'm a passionate **developer**, **tech enthusiast**, and a **CS undergrad** divi
   <img src="https://github-readme-stats.vercel.app/api?username=adityas-28&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" width="500"/>
 </p>
 
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityas-28&layout=compact&theme=github_dark&hide_border=true&border_radius=12" width="500"/>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=adityas-28&theme=github-dark&hide_border=true&border_radius=12" width="500"/>
+</p>
 
 
 
